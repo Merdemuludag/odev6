@@ -1,0 +1,19 @@
+#google-konum{
+text-align: center;
+padding-top: 150px;
+}
+#arama-konum{
+    text-align: center;
+    border: 2px;
+    background-color: #EEEEEE;
+
+}
+#altBilgi-konum{
+    text-align: center;
+    margin-top: 2px;
+    margin-left: 2px;
+    border: 2px;
+    background-color: #62B3AA;
+    width: 33%;
+    float:left;
+}
